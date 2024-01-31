@@ -1,0 +1,14 @@
+{
+    "valid-data": {
+
+    },
+    "invalid-data": {
+        "wrong-user": "salahorang",
+        "invalid-password": "123abc"
+    },
+    "wrong-user": "elvanisa",
+    "locked-user": "locked_out_user",
+    "invalid-password": "xxxcccvvvv1231241",
+    "valid-passw": "secret_sauce",
+    "err-msg": "Sorry, this user has been locked out"
+}
